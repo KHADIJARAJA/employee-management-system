@@ -1,27 +1,33 @@
 # BackendEMS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+This is the backend for the Employee Management System project.
 
-## Development server
+## Prerequisites
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Node.js and npm installed.
 
-## Code scaffolding
+## Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clone the repository: `git clone https://github.com/KHADIJARAJA/employee-management-system.git`
+2. Navigate to the backend directory: `cd backend_ems`
+3. Install dependencies: `npm install`
 
-## Build
+## Configuration
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Configure database connection in `config.js` file.
 
-## Running unit tests
+## Running the Server
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `npm start` to start the server. The backend will be accessible at `http://localhost:3000/`.
 
-## Running end-to-end tests
+## API Endpoints
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- `/api/employees` : Get all employees
+- `/api/employees/:id` : Get employee by ID
+- `/api/employees` : Add a new employee
+- `/api/employees/:id` : Update employee by ID
+- `/api/employees/:id` : Delete employee by ID
 
-## Further help
+## Further Help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For more help or information, feel free to contact [your name].
