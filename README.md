@@ -68,23 +68,23 @@ modification et la suppression.
 
 -Génération de demandes de congé : La possibilité de créer des demandes de congé pour les employés.
 
-- Génération d'attestations de travail : L’Admin doit pouvoir générer des attestations de travail.
+-Génération d'attestations de travail : L’Admin doit pouvoir générer des attestations de travail.
   
 •	Exigences Non Fonctionnelles :
 
-- Interface utilisateur conviviale : L'interface doit être conviviale et facile à utiliser.
+-Interface utilisateur conviviale : L'interface doit être conviviale et facile à utiliser.
   
-- Sécurité des données : Les données des employés doivent être sécurisées.
+-Sécurité des données : Les données des employés doivent être sécurisées.
   
-- Maintenance aisée de l'application : l’Admin doit être capable de maintenir l'application sans difficulté.
+-Maintenance aisée de l'application : l’Admin doit être capable de maintenir l'application sans difficulté.
 
 5. Portée du Projet
    
 •	Limites du Projet :
 
-- Inclus : Gestion des employés, demandes de congé, attestations de travail.
+-Inclus : Gestion des employés, demandes de congé, attestations de travail.
   
-- Exclus : Fonctionnalités avancées de gestion de projet ou de suivi du temps de travail.
+-Exclus : Fonctionnalités avancées de gestion de projet ou de suivi du temps de travail.
 
  6. Contraintes :
     
@@ -108,13 +108,13 @@ Justification : Limite la quantité de travail réalisable dans un délai donné
 
  7. Critères d'Acceptation :
     
-•	La fonction de connexion doit être sécurisée et permettre l'accès exclusif à l'administrateur.
+-La fonction de connexion doit être sécurisée et permettre l'accès exclusif à l'administrateur.
 
-•	L'ajout, la modification et la suppression d'employés doivent s'effectuer sans erreurs et les données doivent être correctement enregistrées.
+-L'ajout, la modification et la suppression d'employés doivent s'effectuer sans erreurs et les données doivent être correctement enregistrées.
 
-•	La génération des demandes de congé doit être simple et précise, produisant des documents conformes aux standards.
+-La génération des demandes de congé doit être simple et précise, produisant des documents conformes aux standards.
 
-•	La création d'attestations de travail doit être automatisée et générer des documents conformes aux exigences administratives.
+-La création d'attestations de travail doit être automatisée et générer des documents conformes aux exigences administratives.
 
 8. Livrables
    
