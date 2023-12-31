@@ -1,0 +1,14 @@
+{
+  "name": "backend-ems",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "Backend server for Employee Management System",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
